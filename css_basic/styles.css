@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Flexbox container for body */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Flexbox container for main */
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+/* Flex properties for article and aside */
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
