@@ -13,11 +13,11 @@ This project focuses on implementing a webpage from a designer file using pure H
 
 ### Task 0: README and Objectives
 
-For this task, you will create a `README.md` file and outline the objectives of the project. The focus is on the HTML structure only, without any CSS or styling.
+For this task, I will create a `README.md` file and outline the objectives of the project. The focus is on the HTML structure only, without any CSS or styling.
 
 ### Designer File
 
-The designer file is available on Figma. You can access the final result [here](https://www.figma.com/file/your-figma-file-link). To have access to all design details, "Duplicate to your Drafts" in Figma.
+The designer file is available on https://www.figma.com/. You can access the final result [here](https://www.figma.com/files). To have access to all design details, "Duplicate to your Drafts" in Figma.
 
 ### Important Notes with Figma
 
@@ -34,7 +34,7 @@ The designer file is available on Figma. You can access the final result [here](
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/alu-web-development.git
+    git clone https://github.com/francis-collab/alu-web-development.git
     ```
 2. Navigate to the project directory:
     ```bash
