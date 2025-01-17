@@ -24,3 +24,28 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+/* Additional styling */
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+article {
+    padding: 20px;
+}
+
+aside {
+    padding: 20px;
+}
